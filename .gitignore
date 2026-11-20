@@ -1,0 +1,6 @@
+# Personal project maps and local configuration
+**/project-map.local.md
+.env
+.env.*
+.DS_Store
+Thumbs.db
